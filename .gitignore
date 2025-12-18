@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Editor / tooling
+.github/copilot-instructions.md
+
+# OS
+.DS_Store
+Thumbs.db
